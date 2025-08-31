@@ -1,0 +1,23 @@
+#out{
+    height: 200px;
+    width: 70px;
+    border: 2px solid black;
+}
+#out div{
+    height: 50px;
+    width:50px;
+    border: 2px solid black;
+    margin: 10px;
+}
+.one{
+    background-color: red;
+    border-radius: 50%;
+}
+.two{
+    background-color: yellow;
+    border-radius: 50%;
+}
+.three{
+    background-color: green;
+    border-radius: 50%;
+}

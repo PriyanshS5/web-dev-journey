@@ -1,0 +1,114 @@
+/* H1{
+    font-family: league spartan;
+    color: #ffa511;
+    text-align: center;
+    font-size: 55px;
+    font-weight: 900;
+    letter-spacing: 2px;
+    line-height: 1.5;
+    text-decoration: teal double underline;
+    text-transform: uppercase;
+
+
+} */
+/* h4{
+    text-decoration: underline;
+    letter-spacing: normal;
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+    letter-spacing: 1px;
+   
+}
+button{
+    color:white;
+    background-color: blue
+}
+a{
+    text-decoration: none;
+    color:brown
+} */
+/* h1{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
+h3{
+    text-align: center;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+p{
+    text-align: center;
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 30px;
+}
+button{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+a{
+    color: green;
+    text-decoration: none;
+}
+textarea{
+    background-color: #000000;
+} */
+*{
+    font-family:'Courier New';
+}
+h1, h3{
+    color: #b92b27;
+}
+#login{
+    background-color: white;
+}
+#signup{
+    background-color: #b92b27;
+    color: beige;
+}
+.a{
+    background-color: green;
+    color: white;
+}
+.fo a{
+    color: purple;
+    background-color: rgb(227, 190, 142);
+}
+nav ul li a{
+     color: rgb(233, 179, 132);
+}
+p+h3{
+    text-decoration: underline;
+}
+.a +button{
+    background-color: darkseagreen;
+    color: white;
+}
+div > input{
+    background-color:rosybrown;
+}
+input[type]{
+    color: black;
+}
+button:hover{
+    background-color: black;
+    color: white;
+}
+h3:hover{
+    text-decoration: none;
+}
+button:active{
+    background-color: violet;
+    color: black ;
+}
+p:active{
+    font-weight: bold;
+    color: darkseagreen;
+}
+h1::first-letter{
+    color: darkorange;
+}
